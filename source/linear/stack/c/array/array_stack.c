@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <malloc.h>
+//#include <malloc.h>
 
 /**
  * C 语言: 数组实现的栈，只能存储int数据。

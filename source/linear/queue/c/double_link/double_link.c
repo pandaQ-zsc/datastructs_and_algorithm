@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include <malloc.h>
+//#include <malloc.h>
 
 /**
  * C 语言: 双向链表，只能存储int数据。
